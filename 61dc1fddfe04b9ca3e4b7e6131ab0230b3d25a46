@@ -52,6 +52,24 @@
       "parentUuid": "94f9f301_df18dc36",
       "revId": "61dc1fddfe04b9ca3e4b7e6131ab0230b3d25a46",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cf295779_f14b99df",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2024-06-23T13:48:37Z",
+      "side": 1,
+      "message": "True. One of such apps that I use still remains broken on U QPR2+ right now.\n\nApp makers likely won\u0027t fix it until the next major Android version arrives.\n\nWithout us adding a workaround, People who relies on those apps basically have no other option than moving back to pre-QPR2 ROMs.",
+      "parentUuid": "3891c082_266db335",
+      "revId": "61dc1fddfe04b9ca3e4b7e6131ab0230b3d25a46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
