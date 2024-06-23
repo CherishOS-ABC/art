@@ -16,6 +16,24 @@
       "message": "The original patch was introduced in QPR2 and broke nearly all apps hardened by [Bangcle Security](https://dev.bangcle.com/home/introduction). By \"nearly\" I mean upstream Bangcle Security has fixed the compatibility issue but most app development companies have not upgraded to the fixed version.\n\nAffected apps involve most Chinese banking apps and cryptocurrency exchanges such as gate.io\n\nIt makes perfect sense for me to apply the revert because it does not appear to have any practical downsides, and leaving these apps broken has a significant negative impact on end users.",
       "revId": "61dc1fddfe04b9ca3e4b7e6131ab0230b3d25a46",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "94f9f301_df18dc36",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2024-06-23T11:19:20Z",
+      "side": 1,
+      "message": "Those apps should be updated instead of being dependent on a revert like this.",
+      "parentUuid": "19e199b4_3d7e74a8",
+      "revId": "61dc1fddfe04b9ca3e4b7e6131ab0230b3d25a46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
